@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I am passionate about **learning** to improve my **skills** always
+- I love helping to *unblock* anyone facing any technical challenges that i am conversant with 💖.
+- I love using _git_ and _vscode_.
+- I am presently learning **Python programming** and also interested in **Cybersecurity**.
