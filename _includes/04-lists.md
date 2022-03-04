@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### My favourites
+- Movies to relax
+  - Prefarably on Netflix
+  - Youtube
+- Listening to soft jazz instrumentals
+- Learning new skills
